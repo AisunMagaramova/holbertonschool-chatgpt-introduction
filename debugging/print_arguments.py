@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 import sys
 
-for index, arg in enumerate(sys.argv):
-    print(f"{index}: {arg}")GIT 
+for arg in sys.argv:
+    print(arg)
